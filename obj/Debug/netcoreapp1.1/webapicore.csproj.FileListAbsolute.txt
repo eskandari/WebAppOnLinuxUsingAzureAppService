@@ -1,0 +1,8 @@
+/home/ehsan/Documents/temp/20170723/webapicore/bin/Debug/netcoreapp1.1/webapicore.deps.json
+/home/ehsan/Documents/temp/20170723/webapicore/bin/Debug/netcoreapp1.1/webapicore.runtimeconfig.json
+/home/ehsan/Documents/temp/20170723/webapicore/bin/Debug/netcoreapp1.1/webapicore.runtimeconfig.dev.json
+/home/ehsan/Documents/temp/20170723/webapicore/bin/Debug/netcoreapp1.1/webapicore.dll
+/home/ehsan/Documents/temp/20170723/webapicore/bin/Debug/netcoreapp1.1/webapicore.pdb
+/home/ehsan/Documents/temp/20170723/webapicore/obj/Debug/netcoreapp1.1/webapicore.AssemblyInfo.cs
+/home/ehsan/Documents/temp/20170723/webapicore/obj/Debug/netcoreapp1.1/webapicore.dll
+/home/ehsan/Documents/temp/20170723/webapicore/obj/Debug/netcoreapp1.1/webapicore.pdb
